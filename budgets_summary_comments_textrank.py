@@ -10,6 +10,7 @@ Participatory Budgeting comments summaries
 This script generates for each budget project a summary of all its comments.
 Running time: Max 1 hour for 10.000 proposals.
 Technique used: GloVe embeddings and TextRank.
+More info in: https://github.com/consul-ml/consul-ml
 """
 
 
